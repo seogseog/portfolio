@@ -4,10 +4,10 @@
 </br>
 
 ## :pushpin: Intro
--이름 : 최석민
--최종학력 : 건국대학교 응용통계학과
--군필여부 : 필(의경복무)
--취미: 달리기,기타,자전거,드라이브
+- 이름 : 최석민
+- 최종학력 : 건국대학교 응용통계학과
+- 군필여부 : 필(의경복무)
+- 취미: 달리기,기타,자전거,드라이브
 </br>
 
 ## :pushpin: Contact
@@ -16,37 +16,61 @@
 
 </br>
 
+
 ## :pushpin: Projects
-### 1. [오늘의 지하철은](https://github.com/kohyj006/kode)
-> (팀 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [SPSS와 R을 이용해 새로운 문화트렌드 타투에 대해 사회조사]
+> SPSS와 R을 이용해 새로운 문화트렌드 타투에 대해 사회조사  (팀 프로젝트)  
+>개발 기간: 2017.11.18 ~ 2017.12.20  
 >  
 >기술 스택:  
->Python 4.1.0 / Pycharm / django / HTML5 / Javascript / CSS 
-> / MySQL / AWS /   
+>R / SPSS / Powerpoint   
 >  
->[프로젝트 상세 설명](https://github.com/seogseog/goQuality) 참고
+<details>
+<summary><b>프로젝트 상세설명 펼치기</b></summary>
+<div markdown="1">
+
+  ## 1. 제작 기간 & 참여 인원
+- 2019년 2월 18일 ~ 4월 5일
+- 5명 팀 프로젝트
+
+ </details>
+
+  
+  ### 2. [오늘의 지하철은](https://github.com/kohyj006/kode)
+> 웹 개발 프로젝트(팀 프로젝트)  
+>개발 기간: 2021.8.9 ~ 2021.8.20  
+>  
+>기술 스택:  
+>Python 3.9.5 / Pycharm / django 3.2.4 / HTML5 / Javascript 1.7 / CSS /BootStrap 4
+> / MySQL / AWS /  
+>  
+<details>
+<summary><b>프로젝트 상세설명 펼치기</b></summary>
+<div markdown="1">
+  
+ ## 1. 제작 기간 & 참여 인원
+- 2021년 8월 9일 ~ 8월 20일
+- 4명 팀 프로젝트
+
+ ## 2. 핵심기능
+ ![프로젝트기획](/images/프젝1.png)
+
+  
+  
+  </details>
+
+
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 3. [스마트 쉘터 위치 우선순위 시각화]()
+>정부의 신사업인 스마트 쉘터에 대해 먼저 세워져야 할 곳 우선순위 4곳을 시각화하였습니다.(개인 프로젝트)  
+>개발 기간: 2021.9.23 ~ 2021.9.25  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Python / Jupiter Notebook / Pandas / folium / Web Crawling  
+>matplotlib / Tableau   
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
-
----
-
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+<details>
+<summary><b>프로젝트 상세설명 펼치기</b></summary>
+<div markdown="1">
